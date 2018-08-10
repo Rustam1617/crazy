@@ -7,9 +7,9 @@ import datetime
 class BotHandler:
     def __init__(self, token):
             self.token = token
-            self.api_url = "https://api.telegram.org/bot{}/".format(token)
+            self.api_url = "https://api.telegram.org/bot{}/".format(651921351:AAGcIpZcOQifLiubUlAXMyj2KAet_HYIgX8)
 
-    #url = "https://api.telegram.org/bot<token>/"
+    #url = "https://api.telegram.org/bot<651921351:AAGcIpZcOQifLiubUlAXMyj2KAet_HYIgX8>/"
 
     def get_updates(self, offset=0, timeout=30):
         method = 'getUpdates'
@@ -36,7 +36,7 @@ class BotHandler:
 
 
 token = '651921351:AAGcIpZcOQifLiubUlAXMyj2KAet_HYIgX8' #Token of your bot
-magnito_bot = BotHandler(token) #Your bot's name
+superbekbot = BotHandler(651921351:AAGcIpZcOQifLiubUlAXMyj2KAet_HYIgX8) #super
 
 
 
