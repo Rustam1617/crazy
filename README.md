@@ -1,0 +1,2 @@
+# crazy
+always be optimist
